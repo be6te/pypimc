@@ -1,2 +1,4 @@
 # NamePY
-NameMC Api Wrapper
+
+NameMC Api Wrapper, soon it will be ready!
+
