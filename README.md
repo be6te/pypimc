@@ -17,15 +17,33 @@ $ pip install pypimc
 
 ## Examples
 ```py
-from pypimc.Minecraft import Minecraft
+from pypimc.Minecraft import Minecraft # Minecraft account information 
 
 info = Minecraft()
 
 print(info.minecraft(username='wDirty')) # Display minecraft account information on screen
 ```
-## Output
+Output:
 ```
 ['wDirty', 'buzzdlux', 'None', 'https://mc-heads.net/head/wDirty', 'https://mc-heads.net/player/wDirty']
+```
+## Hypixel stats examples
+```py
+from pypimc.Minecraft import Minecraft # Hypixel Information
+
+info = Minecraft()
+username = 'wDirty'
+
+print(info.hypixelstats(username=username)) # Display hypixel stats in list
+print(info.hypixelstats(username=username)[0]) # Shows if the user is connected to hypixel True/False
+print(info.hypixelstats(username=username)[1]) # Show user rank in hypixel
+print(info.hypixelstats(username=username)[2]) # Shows the total experience on the server
+print(info.hypixelstats(username=username)[3]) # Shows hypixel level
+print(info.hypixelstats(username=username)[4]) # Shows total coins in hypixel
+```
+Output:
+```
+['False', 'VIP', '832905', '23.54', 330716]
 ```
 
 ## A list to facilitate the use and to make it more understandable
