@@ -61,3 +61,6 @@ print(info.minecraft(username=username)[2]) # Slim skin
 print(info.minecraft(username=username)[3]) # Minecraft head skin Output example: https://mc-heads.net/head/wDirty
 print(info.minecraft(username=username)[4]) # Full minecraft skin
 ```
+
+> This is just a small test and is not finished and may have bugs.
+> please consider leaving a ⭐ in the top right on the repo :)
