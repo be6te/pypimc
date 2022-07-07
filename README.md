@@ -1,3 +1,6 @@
+## This is just a sample of what it will do and cannot be installed or used yet.
+## Note: I did the readme to have it done and that way I'm not too lazy to do it later
+
 <center><a href="https://github.com/lbeete"><img src="https://i.imgur.com/AREiNyC.png" alt="bot-icon-1" border="0"></a></center>
 
 ---
