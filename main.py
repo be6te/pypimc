@@ -4,4 +4,4 @@ import requests
 
 info = Hypixel()
 
-print(info.bedwarstats(username='BebitoDeDirty'))
+print(info.bedwarstats(username='rr5'))
