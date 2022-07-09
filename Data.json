@@ -1,0 +1,1754 @@
+{
+    "uuid": "f8b456a0bda347c2931a404e2765f014",
+    "username": "ciaz",
+    "name_history": [
+        "momoscorp",
+        "momoscrop",
+        "xXBeeteCraftYTXx",
+        "ciaz"
+    ],
+    "online": false,
+    "rank": null,
+    "rank_plus_color": "&c",
+    "rank_formatted": "&7",
+    "prefix": null,
+    "karma": "15",
+    "exp": 121758,
+    "level": 7.97,
+    "achievement_points": 395,
+    "quests_completed": 0,
+    "total_games_played": 38,
+    "total_kills": 26,
+    "total_wins": 16,
+    "total_coins": "12319",
+    "mc_version": null,
+    "first_login": 1646246919000,
+    "last_login": 1656709512353,
+    "last_logout": 1656710115154,
+    "last_game": null,
+    "language": "SPANISH",
+    "gifts_sent": 0,
+    "gifts_received": 0,
+    "is_contributor": false,
+    "rewards": {
+        "streak_current": 0,
+        "streak_best": 0,
+        "claimed": 0,
+        "claimed_daily": 0,
+        "tokens": 0
+    },
+    "voting": {
+        "votes_today": 0,
+        "total_votes": 0,
+        "last_vote": null
+    },
+    "links": {
+        "TWITTER": null,
+        "YOUTUBE": null,
+        "INSTAGRAM": null,
+        "TWITCH": null,
+        "DISCORD": null,
+        "HYPIXEL": null
+    },
+    "stats": {
+        "Arcade": {
+            "coins": 4473,
+            "wins": 1,
+            "kills": 0,
+            "modes": {
+                "blocking_dead": {
+                    "wins": 0,
+                    "zombie_kills": 0,
+                    "headshots": 0,
+                    "weapon": null
+                },
+                "dragonwars": {
+                    "wins": 0,
+                    "kills": 0
+                },
+                "ender_spleef": {
+                    "wins": 0,
+                    "blocks_destroyed": 0,
+                    "powerup_activations": 0,
+                    "bigshot_activations": 0,
+                    "tripleshot_activations": 0
+                },
+                "hypixel_says": {
+                    "wins": 0,
+                    "rounds": 0,
+                    "round_wins": 0,
+                    "top_score": 0
+                },
+                "santa_says": {
+                    "wins": 0,
+                    "rounds": 0,
+                    "round_wins": 0,
+                    "top_score": 0
+                },
+                "miniwalls": {
+                    "wins": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "final_kills": 0,
+                    "arrows_shot": 0,
+                    "arrows_hit": 0,
+                    "wither_damge": 0,
+                    "wither_kills": 0,
+                    "kit": null
+                },
+                "party_games": {
+                    "wins": 1,
+                    "wins_1": 1,
+                    "wins_2": 0,
+                    "wins_3": 0,
+                    "round_wins": 2,
+                    "stars_earned": 16,
+                    "animal_slaughter_wins": 1,
+                    "animal_slaughter_kills": 87,
+                    "animal_slaughter_best_score": 80,
+                    "anvil_spleef_wins": 0,
+                    "anvil_spleef_best_time": 0,
+                    "bombardment_wins": 0,
+                    "bombardment_best_time": 35306,
+                    "chicken_rings_wins": 0,
+                    "chicken_rings_best_time": 80126,
+                    "dive_wins": 0,
+                    "dive_total_score": 16,
+                    "dive_best_score": 16,
+                    "high_ground_wins": 0,
+                    "high_ground_total_score": 0,
+                    "high_ground_best_score": 0,
+                    "hoe_hoe_hoe_wins": 0,
+                    "hoe_hoe_hoe_total_score": 0,
+                    "hoe_hoe_hoe_best_score": 0,
+                    "jigsaw_rush_wins": 0,
+                    "jigsaw_rush_best_time": 0,
+                    "jungle_jump_wins": 0,
+                    "jungle_jump_best_time": 0,
+                    "lab_escape_wins": 0,
+                    "lab_escape_best_time": 61111,
+                    "lawn_moower_wins": 1,
+                    "lawn_moower_mowed_total_score": 718,
+                    "lawn_moower_best_score": 398,
+                    "minecart_racing_wins": 0,
+                    "minecart_racing_best_time": 0,
+                    "rpg_16_wins": 0,
+                    "rpg_16_total_score": 0,
+                    "rpg_16_best_score": 0,
+                    "spider_maze_wins": 0,
+                    "spider_maze_best_time": 0,
+                    "the_floor_is_lava_wins": 0,
+                    "the_floor_is_lava_best_time": 0,
+                    "avalanche_wins": 0,
+                    "volcano_wins": 0,
+                    "pig_fishing_wins": 0,
+                    "pig_jousting_wins": 0,
+                    "trampolinio_wins": 0,
+                    "workshop_wins": 0,
+                    "shooting_range_wins": 0,
+                    "frozen_floor_wins": 0,
+                    "cannon_painting_wins": 0,
+                    "fire_leapers_wins": 0,
+                    "super_sheep_wins": 0
+                },
+                "pixel_painters": {
+                    "wins": 0
+                },
+                "throw_out": {
+                    "wins": 0,
+                    "kills": 0,
+                    "deaths": 0
+                },
+                "bounty_hunters": {
+                    "wins": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "bounty_kills": 0,
+                    "bow_kills": 0,
+                    "sword_kills": 0
+                },
+                "galaxy_wars": {
+                    "wins": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "rebel_kills": 0,
+                    "empire_kills": 0,
+                    "shots_fired": 0
+                },
+                "farm_hunt": {
+                    "wins": 0,
+                    "animal_wins": 0,
+                    "hunter_wins": 0,
+                    "kills": 0,
+                    "animal_kills": 0,
+                    "hunter_kills": 0,
+                    "bow_kills": 0,
+                    "animal_bow_kills": 0,
+                    "hunter_bow_kills": 0,
+                    "taunts_used": 0,
+                    "safe_taunts_used": 0,
+                    "risky_taunts_used": 0,
+                    "dangerous_taunts_used": 0,
+                    "fireworks_used": 0,
+                    "poop_collected": 0
+                },
+                "football": {
+                    "wins": 0,
+                    "goals": 0,
+                    "powerkicks": 0,
+                    "kicks": 0
+                },
+                "creeper_attack": {
+                    "best_wave": 0
+                },
+                "hole_in_the_wall": {
+                    "wins": 0,
+                    "rounds": 0,
+                    "highest_score_qualification": 0,
+                    "highest_score_finals": 0
+                },
+                "hide_and_seek": {
+                    "prop_hunt_hider_wins": 0,
+                    "prop_hunt_seeker_wins": 0,
+                    "prop_hunt_wins": 0,
+                    "party_pooper_seeker_wins": 0,
+                    "party_pooper_hider_wins": 0,
+                    "party_pooper_wins": 0,
+                    "seeker_wins": 0,
+                    "hider_wins": 0,
+                    "wins": 0
+                },
+                "zombies": {
+                    "wins": 0,
+                    "alien_arcadium_wins": 0,
+                    "bad_blood_wins": 0,
+                    "dead_end_wins": 0,
+                    "zombie_kills": 281,
+                    "deaths": 5,
+                    "total_rounds_survived": 28,
+                    "bullets_hit": 874,
+                    "headshots": 276,
+                    "players_revived": 5,
+                    "windows_repaired": 25,
+                    "doors_opened": 1,
+                    "best_round": 8
+                }
+            }
+        },
+        "Arena": {
+            "coins": 0,
+            "coins_spent": 0,
+            "penalty": 0,
+            "magical_chest": 0,
+            "keys": 0,
+            "skills": {},
+            "combat_levels": {
+                "melee": 0,
+                "health": 0,
+                "energy": 0,
+                "cooldown": 0
+            },
+            "rune_levels": {
+                "damage": 0,
+                "energy": 0,
+                "slowing": 0,
+                "speed": 0
+            },
+            "gamemodes": {
+                "one_v_one": {
+                    "damage": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "losses": 0,
+                    "wins": 0,
+                    "win_streaks": 0,
+                    "games": 0,
+                    "healed": 0,
+                    "kd": 0,
+                    "win_loss": 0,
+                    "win_percentage": 0
+                },
+                "two_v_two": {
+                    "damage": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "losses": 0,
+                    "wins": 0,
+                    "win_streaks": 0,
+                    "games": 0,
+                    "healed": 0,
+                    "kd": 0,
+                    "win_loss": 0,
+                    "win_percentage": 0
+                },
+                "four_v_four": {
+                    "damage": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "losses": 0,
+                    "wins": 0,
+                    "win_streaks": 0,
+                    "games": 0,
+                    "healed": 0,
+                    "kd": 0,
+                    "win_loss": 0,
+                    "win_percentage": 0
+                }
+            },
+            "combat_tracker": 0
+        },
+        "Warlords": {
+            "coins": 0,
+            "kills": 0,
+            "assists": 0,
+            "deaths": 0,
+            "kill_death_ratio": 0,
+            "wins": 0,
+            "wins_capturetheflag": 0,
+            "wins_domination": 0,
+            "wins_teamdeathmatch": 0,
+            "weapons_repaired": 0,
+            "flags_captured": 0,
+            "flags_returned": 0
+        },
+        "BedWars": {
+            "coins": 228,
+            "exp": 1632,
+            "level": 2,
+            "level_formatted": "&7[2\u272b]",
+            "wins": 2,
+            "losses": 5,
+            "games_played": 7,
+            "ingame_games_played": 7,
+            "kills": 15,
+            "deaths": 22,
+            "k_d": 0.68,
+            "w_l": 0.4,
+            "beds_broken": 2,
+            "beds_lost": 5,
+            "bed_ratio": 0.4,
+            "final_kills": 3,
+            "final_deaths": 5,
+            "final_k_d": 0.6,
+            "void_kills": 7,
+            "void_deaths": 12,
+            "winstreak": 1,
+            "boxes": {
+                "current": 3,
+                "opened": 0,
+                "commons": 0,
+                "rares": 0,
+                "epics": 0,
+                "legendaries": 0
+            },
+            "resources_collected": {
+                "iron": 1805,
+                "gold": 257,
+                "diamond": 33,
+                "emerald": 2
+            },
+            "gamemodes": {
+                "solo": {
+                    "winstreak": 0,
+                    "items_purchased": 77,
+                    "beds_broken": 2,
+                    "beds_lost": 1,
+                    "deaths": 4,
+                    "diamond_resources_collected": 17,
+                    "emerald_resources_collected": 2,
+                    "entity_attack_deaths": 2,
+                    "entity_attack_final_kills": 2,
+                    "entity_attack_kills": 2,
+                    "fall_final_deaths": 1,
+                    "final_deaths": 1,
+                    "final_kills": 3,
+                    "games_played": 1,
+                    "gold_resources_collected": 103,
+                    "iron_resources_collected": 508,
+                    "kills": 3,
+                    "losses": 1,
+                    "resources_collected": 630,
+                    "void_deaths": 2,
+                    "void_final_kills": 1,
+                    "void_kills": 1,
+                    "k_d": 0.75,
+                    "w_l": 0,
+                    "final_k_d": 3,
+                    "bed_ratio": 2
+                },
+                "doubles": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "3v3v3v3": {
+                    "winstreak": 0,
+                    "items_purchased": 26,
+                    "beds_lost": 2,
+                    "deaths": 3,
+                    "entity_attack_final_deaths": 2,
+                    "entity_attack_kills": 1,
+                    "final_deaths": 2,
+                    "games_played": 2,
+                    "gold_resources_collected": 34,
+                    "iron_resources_collected": 211,
+                    "kills": 4,
+                    "losses": 2,
+                    "resources_collected": 245,
+                    "void_deaths": 3,
+                    "fall_kills": 1,
+                    "permanent_items_purchased": 1,
+                    "void_kills": 2,
+                    "k_d": 1.33,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "4v4v4v4": {
+                    "winstreak": 1,
+                    "items_purchased": 140,
+                    "beds_lost": 2,
+                    "deaths": 15,
+                    "entity_attack_deaths": 6,
+                    "entity_attack_final_deaths": 1,
+                    "entity_attack_kills": 4,
+                    "final_deaths": 2,
+                    "games_played": 4,
+                    "gold_resources_collected": 120,
+                    "iron_resources_collected": 1086,
+                    "kills": 8,
+                    "losses": 2,
+                    "permanent_items_purchased": 3,
+                    "resources_collected": 1222,
+                    "void_deaths": 7,
+                    "void_kills": 4,
+                    "diamond_resources_collected": 16,
+                    "fall_deaths": 2,
+                    "wins": 2,
+                    "void_final_deaths": 1,
+                    "k_d": 0.53,
+                    "w_l": 1,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "4v4": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "rush_solo": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "rush_doubles": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "rush_4v4v4v4": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "ultimate_solo": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "ultimate_doubles": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "ultimate_4v4v4v4": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "lucky_doubles": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "lucky_4v4v4v4": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "voidless_doubles": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "voidless_4v4v4v4": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "armed_doubles": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "armed_4v4v4v4": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                },
+                "castle": {
+                    "k_d": 0,
+                    "w_l": 0,
+                    "final_k_d": 0,
+                    "bed_ratio": 0
+                }
+            },
+            "packages": [
+                "leaderboards_resync_mar_2021"
+            ],
+            "practice": {}
+        },
+        "BuildBattle": {
+            "coins": 342,
+            "score": 35,
+            "wins": 0,
+            "w_r": 0,
+            "total_votes": 18,
+            "wins_solo_normal": 0,
+            "wins_solo_pro": 0,
+            "wins_teams_normal": 0,
+            "wins_guess_the_build": 0,
+            "correct_guesses": 0,
+            "games_played": 3,
+            "super_votes": 0,
+            "loadout": [],
+            "selected_hat": null,
+            "selected_victory_dance": null,
+            "selected_suit": null,
+            "selected_movement_trail": null,
+            "selected_backdrop": null,
+            "packages": [],
+            "themeRatings": {}
+        },
+        "Duels": {
+            "general": {
+                "blocks_placed": 0,
+                "bow_hits": 0,
+                "bow_shots": 0,
+                "chest_history": {},
+                "chests": 0,
+                "coins": 0,
+                "damage_dealt": 0,
+                "deaths": 0,
+                "games_played": 0,
+                "goals": 0,
+                "golden_apples_eaten": 0,
+                "heal_pots_used": 0,
+                "health_regenerated": 0,
+                "kills": 0,
+                "kit_wins": 0,
+                "losses": 0,
+                "maps_won_on": [],
+                "melee_hits": 0,
+                "melee_swings": 0,
+                "meters_travelled": 0,
+                "rounds_played": 0,
+                "wins": 0,
+                "bow_hit_percentage": 0,
+                "kd_ratio": 0,
+                "win_ratio": 0,
+                "win_loss_ratio": 0,
+                "melee_hit_ratio": 0,
+                "gold_title_prestige": null,
+                "iron_title_prestige": null,
+                "winstreaks": {
+                    "best": {
+                        "overall": 0
+                    },
+                    "current": {
+                        "overall": 0
+                    }
+                },
+                "packages": []
+            },
+            "settings": {
+                "active_cosmetics": {},
+                "chat_enabled": false,
+                "kit_menu_option": false
+            },
+            "gamemodes": {
+                "bridge": {
+                    "deaths": 0,
+                    "kills": 0,
+                    "rookie_title_prestige": 0,
+                    "map_wins": 0,
+                    "doubles": {},
+                    "duels": {},
+                    "fours": {},
+                    "2v2v2v2": {},
+                    "3v3v3v3": {}
+                },
+                "blitz_duel": {
+                    "iron_title_prestige": 0,
+                    "rookie_title_prestige": 0,
+                    "kit": 0,
+                    "kit_wins": {}
+                },
+                "classic_duel": {
+                    "rookie_title_prestige": 0,
+                    "kit_wins": {}
+                },
+                "combo_duel": {
+                    "rookie_title_prestige": 0,
+                    "kit_wins": {}
+                },
+                "mega_walls_duels": {
+                    "class": 0,
+                    "kit_wins": {}
+                },
+                "op_duels": {
+                    "rookie_title_prestige": 0,
+                    "kit_wins": {}
+                },
+                "ranked_duels": {
+                    "win_streak": 0,
+                    "loss_streak": 0,
+                    "kit_wins": {}
+                },
+                "potion_duel": {
+                    "kit_wins": {}
+                },
+                "uhc": {
+                    "rookie_title_prestige": 0,
+                    "gold_title_prestige": 0,
+                    "iron_title_prestige": 0,
+                    "doubles": {
+                        "kit_wins": {}
+                    },
+                    "duels": {
+                        "kit_wins": {}
+                    },
+                    "fours": {
+                        "kit_wins": {}
+                    },
+                    "meetup": {
+                        "kit_wins": {}
+                    },
+                    "tournament": {
+                        "kit_wins": {}
+                    }
+                },
+                "skywars": {
+                    "doubles": {
+                        "kit_wins": {}
+                    },
+                    "duels": {
+                        "kit": 0,
+                        "kit_wins": {}
+                    },
+                    "tournament": {
+                        "kit_wins": {}
+                    }
+                },
+                "sumo": {
+                    "rookie_title_prestige": 0,
+                    "kit_wins": {}
+                }
+            }
+        },
+        "TKR": {
+            "coins": 0,
+            "coin_pickups": 0,
+            "laps": 0,
+            "wins": 0,
+            "box_pickups": 0,
+            "bananas_sent": 0,
+            "bananas_received": 0,
+            "banana_ratio": 0,
+            "trophies": {
+                "gold": 0,
+                "silver": 0,
+                "bronze": 0
+            },
+            "maps": {
+                "retro": {
+                    "games": 0,
+                    "win_ratio": 0,
+                    "trophies": {
+                        "gold": 0,
+                        "silver": 0,
+                        "bronze": 0
+                    }
+                },
+                "hypixelgp": {
+                    "games": 0,
+                    "win_ratio": 0,
+                    "trophies": {
+                        "gold": 0,
+                        "silver": 0,
+                        "bronze": 0
+                    }
+                },
+                "junglerush": {
+                    "games": 0,
+                    "win_ratio": 0,
+                    "trophies": {
+                        "gold": 0,
+                        "silver": 0,
+                        "bronze": 0
+                    }
+                },
+                "olympus": {
+                    "games": 0,
+                    "win_ratio": 0,
+                    "trophies": {
+                        "gold": 0,
+                        "silver": 0,
+                        "bronze": 0
+                    }
+                },
+                "canyon": {
+                    "games": 0,
+                    "win_ratio": 0,
+                    "trophies": {
+                        "gold": 0,
+                        "silver": 0,
+                        "bronze": 0
+                    }
+                }
+            }
+        },
+        "Blitz": {
+            "coins": 0,
+            "deaths": 0,
+            "kills": 0,
+            "k_d": 0,
+            "wins": 0,
+            "team_wins": 0,
+            "win_loss": 0,
+            "win_percentage": 0,
+            "weekly_kills": 0,
+            "monthly_kills": 0,
+            "rambo_wins": 0,
+            "random_wins": 0,
+            "damage_taken": 0,
+            "taunt_kills": 0,
+            "potions_drunk": 0,
+            "damage": 0,
+            "mobs_spawned": 0,
+            "time_played": 0,
+            "arrows_hit": 0,
+            "games_played": 0,
+            "potions_thrown": 0,
+            "arrows_fired": 0,
+            "blitz_uses": 0,
+            "chests_opened": 0,
+            "kits_levels": {
+                "arachnologist": 1,
+                "archer": 1,
+                "armorer": 1,
+                "astronaut": 1,
+                "baker": 1,
+                "blaze": 1,
+                "creepertamer": 1,
+                "diver": 1,
+                "farmer": 1,
+                "fisherman": 1,
+                "florist": 1,
+                "golem": 1,
+                "guardian": 1,
+                "horsetamer": 1,
+                "hunter": 1,
+                "hype_train": 1,
+                "jockey": 1,
+                "knight": 1,
+                "meatmaster": 1,
+                "necromancer": 1,
+                "paladin": 1,
+                "random": 1,
+                "rambo": 1,
+                "pigman": 1,
+                "reaper": 1,
+                "reddragon": 1,
+                "rogue": 1,
+                "scout": 1,
+                "shadow_knight": 1,
+                "slimeyslime": 1,
+                "snowman": 1,
+                "speleologist": 1,
+                "tim": 1,
+                "toxicologist": 1,
+                "troll": 1,
+                "viking": 1,
+                "warlock": 1,
+                "wolftamer": 1
+            },
+            "kit_stats": {
+                "wins": {
+                    "solo": {},
+                    "teams": {},
+                    "total": {}
+                },
+                "kills": {},
+                "k_d": {},
+                "w_l": {},
+                "games_played": {},
+                "time_played": {},
+                "chests_opened": {},
+                "mobs_spawned": {},
+                "damage_taken": {},
+                "fall_damage": {},
+                "arrows_fired": {},
+                "arrows_hit": {},
+                "bottles_thrown": {},
+                "potions_drunk": {},
+                "potions_thrown": {},
+                "taunt_kills": {},
+                "misc": {
+                    "blocks_traveled": {}
+                }
+            },
+            "equipped": {},
+            "settings": {},
+            "votes": {},
+            "inventories": {}
+        },
+        "CvC": {
+            "coins": 0,
+            "deaths": 0,
+            "kills": 0,
+            "kd": 0,
+            "wins": 0,
+            "cop_kills": 0,
+            "criminal_kills": 0,
+            "weekly_kills": 0,
+            "monthly_kills": 0,
+            "bombs_planted": 0,
+            "bombs_defused": 0,
+            "grenade_kills": 0,
+            "headshot_kills": 0,
+            "round_wins": 0,
+            "shots_fired": 0,
+            "map_wins": {
+                "alleyway": 0,
+                "atomic": 0,
+                "carrier": 0,
+                "melon_factory": 0,
+                "overgrown": 0,
+                "reserve": 0,
+                "sandstorm": 0,
+                "temple": 0
+            },
+            "deathmatch": {
+                "kills": 0,
+                "deaths": 0,
+                "kd": 0,
+                "wins": 0,
+                "cop_kills": 0,
+                "criminal_kills": 0
+            },
+            "perks": {
+                "player": {
+                    "body_armor_cost": 0,
+                    "bounty_hunter": 0,
+                    "pocket_change": 0,
+                    "strength_training": 0
+                },
+                "carbine": {
+                    "cost_reduction": 0,
+                    "damage_increase": 0,
+                    "recoil_reduction": 0,
+                    "reload_speed_reduction": 0
+                },
+                "knife": {
+                    "attack_delay": 0,
+                    "damage_increase": 0
+                },
+                "magnum": {
+                    "cost_reduction": 0,
+                    "damage_increase": 0,
+                    "recoil_reduction": 0,
+                    "reload_speed_reduction": 0
+                },
+                "pistol": {
+                    "damage_increase": 0,
+                    "recoil_reduction": 0,
+                    "reload_speed_reduction": 0
+                },
+                "rifle": {
+                    "cost_reduction": 0,
+                    "damage_increase": 0,
+                    "recoil_reduction": 0,
+                    "reload_speed_reduction": 0
+                },
+                "shotgun": {
+                    "cost_reduction": 0,
+                    "damage_increase": 0,
+                    "recoil_reduction": 0,
+                    "reload_speed_reduction": 0
+                },
+                "smg": {
+                    "cost_reduction": 0,
+                    "damage_increase": 0,
+                    "recoil_reduction": 0,
+                    "reload_speed_reduction": 0
+                },
+                "sniper": {
+                    "charge_bonus": 0,
+                    "cost_reduction": 0,
+                    "damage_increase": 0,
+                    "reload_speed_reduction": 0
+                }
+            },
+            "selected_cosmetics": {}
+        },
+        "MurderMystery": {
+            "detective_chance": 5,
+            "murderer_chance": 10,
+            "coins": 762,
+            "wins": 12,
+            "detective_wins": 0,
+            "murderer_wins": 0,
+            "losses": 9,
+            "games_played": 21,
+            "win_loss_ratio": 1.33,
+            "kills": 4,
+            "bow_kills": 0,
+            "knife_kills": 4,
+            "thrown_knife_kills": 0,
+            "trap_kills": 0,
+            "deaths": 12,
+            "kill_death_ratio": 0.33,
+            "times_hero": 0,
+            "boxes": {
+                "current": 0,
+                "opened": 0,
+                "commons": 0,
+                "rares": 0,
+                "epics": 0,
+                "legendaries": 0
+            },
+            "gamemodes": {
+                "classic": {
+                    "coins_pickedup": 53,
+                    "deaths": 12,
+                    "games": 20,
+                    "wins": 11,
+                    "coins_pickedup_subway": 12,
+                    "games_subway": 3,
+                    "wins_subway": 1,
+                    "deaths_subway": 2,
+                    "kills": 4,
+                    "kills_as_murderer": 4,
+                    "knife_kills": 4,
+                    "kills_as_murderer_subway": 3,
+                    "kills_subway": 3,
+                    "knife_kills_subway": 3,
+                    "deaths_villa": 1,
+                    "games_villa": 1,
+                    "wins_villa": 1,
+                    "kill_death_ratio": 0.33,
+                    "win_loss_ratio": 1.22
+                },
+                "double_up": {
+                    "coins_pickedup": 3,
+                    "games": 1,
+                    "wins": 1,
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": null
+                },
+                "assassins": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0
+                },
+                "infection": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0
+                }
+            }
+        },
+        "Paintball": {
+            "coins": 0,
+            "kills": 0,
+            "deaths": 0,
+            "kd": 0,
+            "wins": 0,
+            "weekly_kills": 0,
+            "monthly_kills": 0,
+            "killstreaks": 0,
+            "shots_fired": 0,
+            "force_field_time": 0,
+            "perks": {
+                "adrenaline": 2,
+                "endurance": 2,
+                "fortune": 2,
+                "godfather": 2,
+                "superluck": 2,
+                "transfusion": 2
+            },
+            "votes": {
+                "babyland": 0,
+                "boletus": 0,
+                "courtyard": 0,
+                "gladiator": 0,
+                "herobrine": 0,
+                "juice": 0,
+                "lalaland": 0,
+                "octagon": 0,
+                "oh_canada": 0,
+                "outback": 0,
+                "victorian": 0
+            }
+        },
+        "Pit": {
+            "kills": 0,
+            "assists": 0,
+            "deaths": 0,
+            "kd_ratio": 0,
+            "sword_hits": 0,
+            "arrows_fired": 0,
+            "arrow_hits": 0,
+            "arrow_accuracy": 0,
+            "chat_messages": 0,
+            "playtime_minutes": 0,
+            "enderchest_opened": 0,
+            "gold": 0,
+            "gold_earned": 0,
+            "xp": 0,
+            "prestige": 0,
+            "renown": 0,
+            "renown_unlocks": [],
+            "left_clicks": 0,
+            "joins": 0,
+            "last_save": null,
+            "contracts_started": 0,
+            "contracts_completed": 0,
+            "king_quest": {},
+            "diamond_items_purchased": 0,
+            "jumped_into_pit": 0,
+            "launched_by_launchers": 0,
+            "max_streak": 0,
+            "blocks_placed": 0,
+            "block_broken": 0,
+            "lava_bucket_emptied": 0,
+            "gapple_eaten": 0,
+            "ghead_eaten": 0,
+            "fishing_rod_launched": 0,
+            "soups_drank": 0,
+            "sewer_treasures_found": 0,
+            "night_quests_completed": 0,
+            "wheat_farmed": 0,
+            "dark_pants_created": 0,
+            "gold_during_prestige": {},
+            "selected_perks": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null
+            },
+            "items": {},
+            "damage_dealt": {
+                "total": 0,
+                "melee": 0,
+                "bow": 0
+            },
+            "damage_taken": {
+                "total": 0,
+                "melee": 0,
+                "bow": 0
+            }
+        },
+        "Quake": {
+            "coins": 0,
+            "gamemodes": {
+                "solo": {
+                    "wins": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "kd": 0,
+                    "killstreaks": 0,
+                    "kills_dm": 0,
+                    "distance_travelled": 0,
+                    "shots_fired": 0,
+                    "headshots": 0
+                },
+                "teams": {
+                    "wins": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "kd": 0,
+                    "killstreaks": 0,
+                    "kills_dm": 0,
+                    "distance_travelled": 0,
+                    "shots_fired": 0,
+                    "headshots": 0
+                }
+            },
+            "kills_timeattack": 0,
+            "highest_killstreak": 0,
+            "weekly_kills": 0,
+            "monthly_kills": 0,
+            "dash_power": 0,
+            "dash_cooldown": 0,
+            "equipped_cosmetics": {
+                "barrel": "",
+                "case": "",
+                "killsound": "",
+                "muzzle": "",
+                "sight": "",
+                "trigger": ""
+            },
+            "cosmetics": {
+                "misc": []
+            },
+            "settings": {
+                "messages": {}
+            },
+            "votes": {
+                "apex": 0,
+                "apex2": 0,
+                "ascended": 0,
+                "belmorn": 0,
+                "cold_war": 0,
+                "demonic": 0,
+                "depths": 0,
+                "digsite": 0,
+                "digsite2": 0,
+                "fryst": 0,
+                "lost_world": 0,
+                "martian": 0,
+                "reactor": 0,
+                "sero": 0
+            }
+        },
+        "SkyClash": {
+            "coins": 0
+        },
+        "SkyWars": {
+            "coins": 2050,
+            "games_played": 7,
+            "wins": 1,
+            "losses": 6,
+            "win_loss_ratio": 0.17,
+            "experience": 17,
+            "level": 1.85,
+            "levelFormatted": "&7[1\u22c6]",
+            "kills": 7,
+            "deaths": 6,
+            "assists": 1,
+            "kill_death_ratio": 1.17,
+            "souls_gathered": 7,
+            "souls": 17,
+            "arrows_shot": 2,
+            "arrows_hit": 2,
+            "arrow_hit_miss_ratio": 1,
+            "eggs_thrown": 16,
+            "enderpearls_thrown": 0,
+            "blocks_placed": 80,
+            "blocks_broken": 21,
+            "soul_well_uses": 0,
+            "soul_well_rares": 0,
+            "soul_well_legendaries": 0,
+            "heads": {
+                "total_heads": 0,
+                "heads_eww": 0,
+                "heads_yucky": 0,
+                "heads_meh": 0,
+                "heads_decent": 0,
+                "heads_salty": 0,
+                "heads_tasty": 0,
+                "heads_succulent": 0,
+                "heads_sweet": 0,
+                "heads_divine": 0,
+                "heads_heavenly": 0
+            },
+            "gamemodes": {
+                "solo": {
+                    "assists": 1,
+                    "fastest_win": 91,
+                    "games": 1,
+                    "kills": 7,
+                    "killstreak": 3,
+                    "most_kills_game": 3,
+                    "survived_players": 43,
+                    "time_played": 456,
+                    "void_kills": 5,
+                    "wins": 1,
+                    "deaths": 6,
+                    "losses": 6,
+                    "arrows_hit": 2,
+                    "arrows_shot": 2,
+                    "longest_bow_shot": 17,
+                    "longest_bow_kill": 3,
+                    "melee_kills": 1,
+                    "kill_death_ratio": 1.17,
+                    "win_loss_ratio": 0.17,
+                    "arrow_hit_miss_ratio": 1
+                },
+                "solo_insane": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0,
+                    "arrow_hit_miss_ratio": 0
+                },
+                "solo_normal": {
+                    "kills": 7,
+                    "wins": 1,
+                    "deaths": 6,
+                    "losses": 6,
+                    "kill_death_ratio": 1.17,
+                    "win_loss_ratio": 0.17,
+                    "arrow_hit_miss_ratio": 0
+                },
+                "team": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0,
+                    "arrow_hit_miss_ratio": 0
+                },
+                "team_insane": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0,
+                    "arrow_hit_miss_ratio": 0
+                },
+                "team_normal": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0,
+                    "arrow_hit_miss_ratio": 0
+                },
+                "lab": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0,
+                    "arrow_hit_miss_ratio": 0
+                },
+                "lab_solo": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0,
+                    "arrow_hit_miss_ratio": 0
+                },
+                "lab_team": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0,
+                    "arrow_hit_miss_ratio": 0
+                },
+                "mega_normal": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0,
+                    "arrow_hit_miss_ratio": 0
+                },
+                "mega_doubles": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0,
+                    "arrow_hit_miss_ratio": 0
+                },
+                "ranked": {
+                    "kill_death_ratio": 0,
+                    "win_loss_ratio": 0,
+                    "arrow_hit_miss_ratio": 0
+                }
+            }
+        },
+        "SpeedUHC": {
+            "arrows_hit": 0,
+            "arrows_shot": 0,
+            "assists": 0,
+            "blocks_broken": 0,
+            "blocks_placed": 0,
+            "coins": 0,
+            "deaths": 0,
+            "games": 0,
+            "items_enchanted": 0,
+            "kills": 0,
+            "kd": 0,
+            "weekly_kills": 0,
+            "monthly_kills": 0,
+            "killstreak": 0,
+            "losses": 0,
+            "win_loss": 0,
+            "win_percentage": 0,
+            "quits": 0,
+            "salt": 0,
+            "tears": 0,
+            "tears_gathered": 0,
+            "tear_well_uses": 0,
+            "wins": 0,
+            "winstreak": 0,
+            "survived_players": 0,
+            "enderpearls_thrown": 0,
+            "extra_wheels": 0,
+            "rares_found": 0,
+            "commons_found": 0,
+            "legendaries_found": 0,
+            "highest_killstreak": 0,
+            "highest_winstreak": 0,
+            "mastery": {
+                "berserk": {},
+                "fortune": {},
+                "huntsman": {},
+                "invigorate": {},
+                "master_baker": {},
+                "sniper": {},
+                "wild_specialist": {}
+            },
+            "gamemodes": {
+                "solo": {
+                    "assists": 0,
+                    "deaths": 0,
+                    "games": 0,
+                    "kills": 0,
+                    "kd": 0,
+                    "killstreaks": 0,
+                    "losses": 0,
+                    "survived_players": 0,
+                    "wins": 0,
+                    "win_loss": 0,
+                    "win_percentage": 0,
+                    "winstreak": 0
+                },
+                "teams": {
+                    "assists": 0,
+                    "deaths": 0,
+                    "games": 0,
+                    "kills": 0,
+                    "kd": 0,
+                    "killstreaks": 0,
+                    "losses": 0,
+                    "survived_players": 0,
+                    "wins": 0,
+                    "win_loss": 0,
+                    "win_percentage": 0,
+                    "winstreak": 0
+                },
+                "normal": {
+                    "assists": 0,
+                    "deaths": 0,
+                    "games": 0,
+                    "kills": 0,
+                    "kd": 0,
+                    "killstreaks": 0,
+                    "losses": 0,
+                    "survived_players": 0,
+                    "wins": 0,
+                    "win_loss": 0,
+                    "win_percentage": 0,
+                    "winstreak": 0,
+                    "solo": {
+                        "deaths": 0,
+                        "kills": 0,
+                        "kd": 0,
+                        "losses": 0,
+                        "wins": 0,
+                        "win_loss": 0,
+                        "win_percentage": 0
+                    },
+                    "teams": {
+                        "deaths": 0,
+                        "kills": 0,
+                        "kd": 0,
+                        "losses": 0,
+                        "wins": 0,
+                        "win_loss": 0,
+                        "win_percentage": 0
+                    },
+                    "kit_stats": {
+                        "archaelogist": {},
+                        "archer": {},
+                        "cowboy": {},
+                        "default": {},
+                        "enchanter": {},
+                        "farmer": {},
+                        "healer": {},
+                        "knight": {},
+                        "logger": {},
+                        "miner": {},
+                        "nether_walker": {},
+                        "oink": {},
+                        "pyro": {},
+                        "scout": {},
+                        "tamer": {}
+                    },
+                    "perks": {
+                        "arrow_recovery": 0,
+                        "bow_flex": 0,
+                        "cold_blood": 0,
+                        "ender_generosity": 0,
+                        "expert_miner": 0,
+                        "low_gravity": 0,
+                        "marksmob": 0,
+                        "master_brewer": 0,
+                        "medicine": 0,
+                        "monster_tamer": 0,
+                        "no_mercy": 0,
+                        "nourishment": 0,
+                        "portal_protection": 0,
+                        "swimming_champion": 0,
+                        "telekinesis": 0,
+                        "tenacity": 0,
+                        "vitamins": 0
+                    }
+                },
+                "insane": {
+                    "assists": 0,
+                    "deaths": 0,
+                    "games": 0,
+                    "kills": 0,
+                    "kd": 0,
+                    "killstreaks": 0,
+                    "losses": 0,
+                    "survived_players": 0,
+                    "wins": 0,
+                    "win_loss": 0,
+                    "win_percentage": 0,
+                    "winstreak": 0,
+                    "solo": {
+                        "deaths": 0,
+                        "kills": 0,
+                        "kd": 0,
+                        "losses": 0,
+                        "wins": 0,
+                        "win_loss": 0,
+                        "win_percentage": 0
+                    },
+                    "teams": {
+                        "deaths": 0,
+                        "kills": 0,
+                        "kd": 0,
+                        "losses": 0,
+                        "wins": 0,
+                        "win_loss": 0,
+                        "win_percentage": 0
+                    },
+                    "kit_stats": {
+                        "archaeologist": {},
+                        "archer": {},
+                        "cowboy": {},
+                        "default": {},
+                        "enchanter": {},
+                        "farmer": {},
+                        "healer": {},
+                        "knight": {},
+                        "logger": {},
+                        "miner": {},
+                        "nether_walker": {},
+                        "oink": {},
+                        "pyro": {},
+                        "scout": {},
+                        "tamer": {}
+                    },
+                    "perks": {
+                        "adrenaline": 0,
+                        "annoy_o_fish": 0,
+                        "blazing_arrow": 0,
+                        "bow_flex": 0,
+                        "ender_generosity": 0,
+                        "juggernaut": 0,
+                        "knowledge": 0,
+                        "low_gravity": 0,
+                        "master_breeder": 0,
+                        "medicine": 0,
+                        "no_mercy": 0,
+                        "notoriety": 0,
+                        "portal_protection": 0,
+                        "swimming_champion": 0,
+                        "tank": 0,
+                        "telekinesis": 0,
+                        "tenacity": 0,
+                        "vitamins": 0
+                    }
+                }
+            },
+            "drops": {},
+            "votes": {
+                "hailstone": 0,
+                "pinnacle": 0,
+                "plains": 0,
+                "taiga": 0
+            }
+        },
+        "Smash": {
+            "coins": 0,
+            "kills": 0,
+            "deaths": 0,
+            "smash_level": 0,
+            "kd": 0,
+            "wins": 0,
+            "losses": 0,
+            "quits": 0,
+            "win_streak": 0,
+            "wl": 0,
+            "games_played": 0,
+            "weekly_kills": 0,
+            "weekly_wins": 0,
+            "weekly_losses": 0,
+            "weekly_games_played": 0,
+            "monthly_kills": 0,
+            "monthly_wins": 0,
+            "monthly_losses": 0,
+            "monthly_games_played": 0,
+            "active_class": null,
+            "class_stats": {},
+            "votes": {
+                "strawberry_towers": 0,
+                "toybox": 0,
+                "gunmetal": 0,
+                "color_clash": 0,
+                "triplets": 0,
+                "luxor": 0,
+                "cubed": 0
+            }
+        },
+        "TNT": {
+            "coins": 4464,
+            "gamemodes": {
+                "tnt_run": {
+                    "wins": 0,
+                    "losses": 5,
+                    "win_loss_ratio": 0,
+                    "record_time_survived": 143
+                },
+                "pvp_run": {
+                    "wins": 0,
+                    "losses": 0,
+                    "win_loss_ratio": 0,
+                    "kills": 0,
+                    "record_time_survived": 0
+                },
+                "tnt_tag": {
+                    "kills": 39,
+                    "wins": 1
+                },
+                "bow_spleef": {
+                    "wins": 0,
+                    "losses": 0,
+                    "win_loss_ratio": 0
+                },
+                "wizards": {
+                    "wins": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 0,
+                    "kill_death_ratio": 0
+                }
+            }
+        },
+        "CrazyWalls": {
+            "coins": 0
+        },
+        "UHC": {
+            "coins": 0,
+            "deaths": 0,
+            "kills": 0,
+            "kd": 0,
+            "wins": 0,
+            "win_loss": 0,
+            "win_percentage": 0,
+            "score": 0,
+            "level": 1,
+            "heads_eaten": 0,
+            "weekly_kills": 0,
+            "weekly_wins": 0,
+            "monthly_kills": 0,
+            "monthly_wins": 0,
+            "gamemodes": {
+                "solo": {
+                    "deaths": 0,
+                    "kills": 0,
+                    "kd": 0,
+                    "wins": 0,
+                    "win_loss": 0,
+                    "win_percentage": 0,
+                    "heads_eaten": 0,
+                    "monthly_kills": 0,
+                    "monthly_wins": 0
+                },
+                "red_v_blue": {
+                    "deaths": 0,
+                    "kills": 0,
+                    "kd": 0,
+                    "wins": 0,
+                    "win_loss": 0,
+                    "heads_eaten": 0
+                }
+            },
+            "perks": {
+                "alchemy": {},
+                "apprentice": {},
+                "armorsmith": {},
+                "bloodcraft": {},
+                "cooking": {},
+                "enchanting": {},
+                "engineering": {},
+                "hunter": {},
+                "survivalism": {},
+                "toolsmithing": {},
+                "weaponsmith": {}
+            },
+            "kits": {
+                "archery_set": 0,
+                "ecologist": 0,
+                "farmer": 0,
+                "horseman": 0,
+                "leather_armor": 0,
+                "looter": 0,
+                "lunch_box": 0,
+                "enchanting_set": 0,
+                "stone_gear": 0
+            },
+            "settings": {}
+        },
+        "VampireZ": {
+            "coins": 0,
+            "gold_bought": 0,
+            "human_stats": {
+                "deaths": 0,
+                "kills": 0,
+                "kd": 0,
+                "wins": 0,
+                "weekly_wins": 0,
+                "monthly_wins": 0
+            },
+            "vampire_stats": {
+                "deaths": 0,
+                "kills": 0,
+                "kd": 0,
+                "wins": 0,
+                "weekly_wins": 0,
+                "monthly_wins": 0,
+                "most_kills": 0,
+                "most_kills_new": 0
+            },
+            "perks": {
+                "explosive_killer": 0,
+                "fireproofing": 0,
+                "frankensteins_monster": 0,
+                "gold_booster": 0,
+                "gold_starter": 0,
+                "renfield": 0,
+                "transfusion": 0,
+                "vampire_doubler": 0,
+                "vampiric_minion": 0
+            },
+            "votes": {
+                "cavern": 0,
+                "church": 0,
+                "erias": 0,
+                "pyramids": 0,
+                "village": 0
+            },
+            "zombie_kills": 0
+        },
+        "Walls": {
+            "assists": 0,
+            "coins": 0,
+            "deaths": 0,
+            "kills": 0,
+            "losses": 0,
+            "wins": 0,
+            "kd": 0,
+            "win_loss": 0,
+            "win_percentage": 0,
+            "monthly_assists": 0,
+            "monthly_kills": 0,
+            "monthly_wins": 0,
+            "weekly_assists": 0,
+            "weekly_kills": 0,
+            "weekly_wins": 0,
+            "basic_starters": {
+                "dwarven_skills": 0,
+                "grave_digger": 0,
+                "hunter": 0,
+                "stone_guardian": 0,
+                "master_troll": 0,
+                "sage": 0,
+                "chef": 0,
+                "farmer": 0,
+                "redstone_expert": 0,
+                "watch_your_step": 0,
+                "trap_engineer": 0,
+                "escapist": 0,
+                "blacksmith": 0,
+                "snack_lover": 0,
+                "guitarist": 0,
+                "ready_for_anything": 0,
+                "bacon": 0,
+                "fisherman": 0,
+                "bomberman": 0,
+                "chemist": 0,
+                "smart_boy": 0,
+                "canadian": 0,
+                "necromancer": 0,
+                "lazy_man": 0,
+                "artisan": 0,
+                "cats_eye": 0,
+                "fireproof": 0
+            },
+            "advanced_starters": {
+                "boss_skills": 0,
+                "boss_digger": 0,
+                "boss_guardian": 0,
+                "scotsman": 0,
+                "insane_farmer": 0,
+                "thats_hot": 0,
+                "gold_rush": 0,
+                "leather_worker": 0,
+                "soup_drinker": 0,
+                "really_shiny": 0,
+                "pyromaniac": 0,
+                "einstein": 0,
+                "skybase_king": 0,
+                "burn_baby_burn": 0,
+                "very_fortunate": 0,
+                "get_to_the_choppa": 0,
+                "champion": 0
+            },
+            "perks": {
+                "adrenaline": 0,
+                "berserk": 0,
+                "chainkiller": 0,
+                "expert_miner": 0,
+                "final_form": 0,
+                "fortune": 0,
+                "haste": 0,
+                "opportunity": 0,
+                "shout_count": 0,
+                "swift": 0,
+                "tenacity": 0,
+                "vampirism": 0,
+                "vitality": 0
+            },
+            "votes": {
+                "egypt": 0,
+                "loveland": 0
+            },
+            "settings": {}
+        },
+        "MegaWalls": {
+            "coins": 0,
+            "kills": 0,
+            "assists": 0,
+            "deaths": 0,
+            "kill_death_ratio": 0,
+            "final_kills": 0,
+            "final_assists": 0,
+            "final_deaths": 0,
+            "final_kill_death_ratio": 0,
+            "wins": 0,
+            "losses": 0,
+            "win_loss_ratio": 0,
+            "wither_damage": 0,
+            "defending_kills": 0
+        }
+    }
+}

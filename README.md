@@ -17,7 +17,7 @@ $ pip install pypimc
 
 ## Examples
 ```py
-from pypimc.Minecraft import Minecraft # Minecraft account information 
+from pypimc import Minecraft # Minecraft account information 
 
 info = Minecraft()
 
@@ -29,9 +29,9 @@ Output:
 ```
 ## Hypixel stats examples
 ```py
-from pypimc.Minecraft import Minecraft # Hypixel Information
+from pypimc import Hypixel # Hypixel Information
 
-info = Minecraft()
+info = Hypixel()
 username = 'wDirty'
 
 print(info.hypixelstats(username=username)) # Display hypixel stats in list
@@ -49,7 +49,7 @@ Output:
 ## A list to facilitate the use and to make it more understandable
 
 ```py
-from pypimc.Minecraft import Minecraft
+from pypimc import Minecraft
 
 info = Minecraft()
 username = 'wDirty'

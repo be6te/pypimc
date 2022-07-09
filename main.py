@@ -1,5 +1,7 @@
-from pypimc.Minecraft import Minecraft
+from pypimc import Minecraft, Hypixel
+import json
+import requests
 
-info = Minecraft()
+info = Hypixel()
 
-print(info.hypixelstats(username='wDirty'))
+print(info.bedwarstats(username='BebitoDeDirty'))
